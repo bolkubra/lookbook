@@ -1,0 +1,14 @@
+.container{
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+}
+.custom-div {
+    margin: auto;
+    width: 100%;
+    height: 550px;
+    border: 10px solid black; /* Kenarlıklar siyah ve 2 piksel kalınlığında */
+    border-radius: 30px;    /* Köşeleri yuvarlatma (10 piksel) */
+    padding: 10px;          /* İçerideki içeriği kenarlardan ayırmak için boşluk */
+}
